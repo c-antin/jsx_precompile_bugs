@@ -27,6 +27,6 @@ const Component = (
     </Component>
   );
   const html = render(jsx);
-  console.log("triple escape bug:", html);
+  console.log("preact double escape bug:", html);
   console.assert(html === "&quot;test&quot;");
 }
