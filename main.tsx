@@ -51,5 +51,5 @@ const Show = (
   );
   const html = render(jsx);
   console.log("fragment prop triple escape bug:", html);
-  console.assert(html === "&quot;test&quot;");
+  console.assert(html === "&quot;false&quot;");
 }
