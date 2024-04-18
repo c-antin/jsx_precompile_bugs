@@ -55,9 +55,13 @@
     "https://esm.sh/preact-render-to-string@6.4.0": "c32cdde3816d9232b834a6c445b0d7cd8764e3d8b1483e90446d717f1cc9ff2d",
     "https://esm.sh/preact@10.19.6": "281b115a9b79918c6b73382b4e818d6f9e48db9064b7fd4f75a45a4edee54145",
     "https://esm.sh/preact@10.19.6/jsx-runtime": "f4c9e5f72ef18435eab846ae02e315a63da724f64fb08d806d2ddeaf08d99bd8",
+    "https://esm.sh/preact@10.20.2": "e92bb5c5e639d8f14a21a57c211ec44cfdb3b620c48da7017dc1bbd0cdb2de22",
+    "https://esm.sh/preact@10.20.2/jsx-runtime": "4033ac4e42fbb1c6b4a2dc776aa8c69e21d3d1964b9ad09b94dda91750a77589",
     "https://esm.sh/stable/preact@10.19.5/denonext/preact.mjs": "43a3c637ecc1fa1adcde418f83c501df304d459f09a972074a3d223eb5fe27a7",
     "https://esm.sh/stable/preact@10.19.6/denonext/jsx-runtime.js": "97e9eeb40443de53a8cb3b70f264d04db2bbfc5c2298fdb15d1c471283ccd6aa",
     "https://esm.sh/stable/preact@10.19.6/denonext/preact.mjs": "68491395d287895f4d697e403ded5b0ebb8fed0494f9e870c422bc017e5e52f5",
+    "https://esm.sh/stable/preact@10.20.2/denonext/jsx-runtime.js": "2a5b981955e92e3ff86906ac0e5955ec0e6e5ca71032f3f063912cb85ae9a7f1",
+    "https://esm.sh/stable/preact@10.20.2/denonext/preact.mjs": "f418bc70c24b785703afb9d4dea8cdc1e315e43c8df620a0c52fd27ad9bd70eb",
     "https://esm.sh/v135/preact-render-to-string@6.4.0/denonext/preact-render-to-string.mjs": "9e51dff600f774c59f9d729830e97d50d6e265a69d69fcff2cffb1f62dbace21"
   }
 }
